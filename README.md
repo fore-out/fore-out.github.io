@@ -1,3 +1,5 @@
+# Not My Details
+
 [Hux Blog](https://huangxuan.me)
 ================================
 
